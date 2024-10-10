@@ -1,6 +1,7 @@
 ## Password Generator
 
 A simple and interactive password generator app built with Streamlit.
+You can use the app here: https://custompassgen.streamlit.app/
 
 ## Overview
 
