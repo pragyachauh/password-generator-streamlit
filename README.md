@@ -1,4 +1,4 @@
-# # Password Generator
+## Password Generator
 
 A simple and interactive password generator app built with Streamlit.
 
