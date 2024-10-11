@@ -15,7 +15,7 @@ This Streamlit app provides a user-friendly interface for generating random pass
 
 ## How to Run This App
 
-To run this app, you'll need to have Streamlit installed. If you haven't installed Streamlit yet, you can do so using pip:
+To run this app locally, you'll need to have Streamlit installed. If you haven't installed Streamlit yet, you can do so using pip:
 
 ```bash
 pip install streamlit
